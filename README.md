@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- working towards full stack dev<br>- currently learning python<br>- gaming and learning about tech</p>
+<p align="left">- working towards full stack development<br>- currently learning python<br>- gaming and learning about tech</p>
 
 ###
 
